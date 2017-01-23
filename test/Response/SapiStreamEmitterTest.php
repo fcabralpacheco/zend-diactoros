@@ -430,7 +430,7 @@ class SapiStreamEmitterTest extends SapiEmitterTest
         $readable,
         $sizeBlocks,
         $maxAllowedBlocks,
-        array $rangeBlocks,
+        $rangeBlocks,
         $maxBufferLength
     ) {
 
